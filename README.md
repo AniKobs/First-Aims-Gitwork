@@ -1,2 +1,2 @@
 # First-Aims-Gitwork
-My first github Aims tutorial with Luel
+My first Aims github tutorial with Luel
